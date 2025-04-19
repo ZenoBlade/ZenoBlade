@@ -1,4 +1,6 @@
-<h1 align="center" style="color: red;">Hi 👋, I'm AAKASH</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=6000&pause=2000&color=FF0000&center=true&vCenter=true&width=1200&lines=Hi+%F0%9F%91%8B%2C+I'm+AAKASH+A+passionate+Python+Fullstack+developer" alt="Typing SVG" />
+</p>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zenoblade&label=Profile%20views&color=0e75b6&style=flat" alt="zenoblade" /> </p>
