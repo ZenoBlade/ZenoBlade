@@ -1,7 +1,15 @@
+<!-- Animated Typing Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=6000&pause=2000&color=FF0000&center=true&vCenter=true&width=1200&lines=Hi+%F0%9F%91%8B%2C+I'm+AAKASH+A+passionate+Python+Fullstack+developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=6000&pause=2000&color=FF0000&center=true&vCenter=true&width=1050&lines=Hi+%F0%9F%91%8B%2C+I'm+AAKASH+A+passionate+Python+Fullstack+developer" alt="Typing SVG" />
 </p>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="left">
+  I'm a passionate Python Full Stack Developer from India with a strong foundation in building scalable, high-performance web applications. - I specialize in backend development using Django and create dynamic, responsive frontends with JavaScript, HTML, and CSS.<br>
+ - Passionate about building scalable, high-performance web applications<br>
+ - Focused on clean, maintainable code and user-centric designs<br>
+ - Experienced in full-cycle development: from architecture to deployment<br>
+ - Always exploring new technologies and contributing to open-source projects
+</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zenoblade&label=Profile%20views&color=0e75b6&style=flat" alt="zenoblade" /> </p>
 
